@@ -63,8 +63,8 @@ python3 --version
 
 2. Get the project
 
-git clone https://github.com/YOUR_USERNAME/pytorch-chatbot.git
-cd pytorch-chatbot
+git clone https://github.com/DarkNordia/TorchBot.git
+cd TorchBot
 
 Or download the ZIP from GitHub and extract it, then cd into the folder.
 
