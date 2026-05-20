@@ -1,6 +1,8 @@
 # TorchBot
 TorchBot is a small, private AI chatbot that runs entirely on your computer. It uses pure PyTorch (a 2-layer LSTM, ~2M parameters) plus phrase matching over a dialogue file you can edit. There are no cloud APIs, no API keys, and no data sent online after install. It is aimed at learning, experimentation, and offline demos—not at replacing ChatGPT.
 
+A pre-trained model is included in models/. You can run python src/chat.py immediately, or retrain with python src/train.py after editing dialogues.txt.
+
 Instructions for installation:
 
 
