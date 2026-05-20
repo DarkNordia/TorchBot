@@ -8,6 +8,8 @@ Requirements:
 
 Python 3.10 or newer (3.11 or 3.12 recommended)
 
+Pytorch
+
 ~2 GB free disk space (mostly for PyTorch)
 
 2 GB RAM minimum (4 GB+ recommended)
